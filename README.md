@@ -1,4 +1,4 @@
-![Logo][https://github.com/NishantGore/Decaffeinator/blob/master/logo.png]
+![Logo][https://raw.githubusercontent.com/NishantGore/Decaffeinator/master/logo.png]
 # Decaffeinator
 Decaffeinator
 Team Syndicate
